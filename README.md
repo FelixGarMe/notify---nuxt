@@ -1,6 +1,8 @@
 Proyecto Nuxt - Felix Garcia
-
-#npm run generate
-
-#npm run dev
+#1:
+npm install nuxt
+#2:
+npm run generate
+#3:
+npm run dev
 
